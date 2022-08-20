@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.2eed003b.js";const l=JSON.parse('{"title":"6 \u6708 30 \u65E5","description":"","frontmatter":{},"headers":[],"relativePath":"daily/2021-06.md","lastUpdated":1658749633000}'),r={name:"daily/2021-06.md"};function o(s,c,n,d,p,_){return a(),t("div")}var m=e(r,[["render",o]]);export{l as __pageData,m as default};
