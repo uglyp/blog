@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e}from"./app.4a99c280.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"javascript/2022-08-20-apifox.md","lastUpdated":1661050316000}'),r={name:"javascript/2022-08-20-apifox.md"};function o(s,p,c,i,n,_){return e(),t("div")}var m=a(r,[["render",o]]);export{f as __pageData,m as default};
